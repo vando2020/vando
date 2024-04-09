@@ -60,7 +60,7 @@ body {
 }
 
 .escola{
-    background: linear-gradient( rgb(173, 83, 137), rgb(60, 16, 83));
+    background: linear-gradient( #ad5389, #3c1053);
     color:white;
     display: flex;
     justify-content: center;
